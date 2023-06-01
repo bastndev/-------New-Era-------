@@ -1,6 +1,7 @@
 # Flutter Scanner QR
 
-A new Flutter project.
+A new Flutter project. 2
+
 
 ## Working 👷
 
