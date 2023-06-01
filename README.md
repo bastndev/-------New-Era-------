@@ -12,7 +12,7 @@ A new Flutter project. 2
 --------------------------------------
 :alien: ``:alien:``
 
-:green_apple: ``:green_apple:``
+:apple: ``:apple:``
 
 :recycle: ``:recycle:``
 
